@@ -1,16 +1,26 @@
-## Hi there 👋
+# AmDumDee
 
-<!--
-**amdumdee/amdumdee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Executive cybersecurity threat intelligence.** Translating cyber risk into board-level decisions — for CISOs, CTOs, and boards. No CVE scores. No vendor pitches. No jargon.
 
-Here are some ideas to get you started:
+### 🌐 [amdumdee.com](https://amdumdee.com)
+The full archive — daily threat analysis, every report sourced and traceable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Most cybersecurity content is written for engineers. This is written for the people who sign the checks.
+
+Every analysis asks one question: **what does this mean for your revenue, your liability, and your board's next conversation?**
+
+### What's here
+
+- **[global-threat-intel](https://github.com/AmDumDee/global-threat-intel)** — the daily intelligence archive behind amdumdee.com. Structured, sourced, updated daily.
+- **[amdumdee.github.io](https://github.com/AmDumDee/amdumdee.github.io)** — the site itself, built straight from the intelligence archive.
+- **[rossetacode](https://github.com/AmDumDee/rossetacode)** — Python solutions to algorithmic problems. Keeping the saw sharp.
+
+### The work, in three layers
+
+**Claim** → the daily read on [LinkedIn](https://linkedin.com/in/amdumdee)
+**Evidence** → the full sourced analysis at [amdumdee.com](https://amdumdee.com)
+**Proof** → the raw, timestamped archive right here on GitHub
+
+If you're a CISO building a board report, a CTO defending a security budget, or a board member trying to ask better questions — this is for you.
